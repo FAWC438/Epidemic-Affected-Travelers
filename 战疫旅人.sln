@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "战疫旅人", "..\COVID-19疫情环境下低风险旅行模拟系统的设计\战疫旅人.csproj", "{71DF4CE1-2CFA-4D3B-89E1-ECFEB62EA618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DF4CE1-2CFA-4D3B-89E1-ECFEB62EA618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DF4CE1-2CFA-4D3B-89E1-ECFEB62EA618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DF4CE1-2CFA-4D3B-89E1-ECFEB62EA618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DF4CE1-2CFA-4D3B-89E1-ECFEB62EA618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4F714C-4020-4EAD-B49E-5DB2FA9BB270}
+	EndGlobalSection
+EndGlobal

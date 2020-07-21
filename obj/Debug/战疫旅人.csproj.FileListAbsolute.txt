@@ -1,0 +1,12 @@
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\bin\Debug\战疫旅人.exe.config
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\bin\Debug\战疫旅人.exe
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\bin\Debug\战疫旅人.pdb
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.csprojAssemblyReference.cache
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\COVID_19疫情环境下低风险旅行模拟系统的设计.AddUser.resources
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\COVID_19疫情环境下低风险旅行模拟系统的设计.MainForm.resources
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.Properties.Resources.resources
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\COVID_19疫情环境下低风险旅行模拟系统的设计.ShowPath_win.resources
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.csproj.GenerateResource.cache
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.csproj.CoreCompileInputs.cache
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.exe
+D:\code\C#\COVID-19疫情环境下低风险旅行模拟系统的设计\obj\Debug\战疫旅人.pdb
